@@ -1,7 +1,7 @@
 
 # Dual boot with Windows (BIOS/MBR) - Archlinux
 
-Simple instructions to install Arch Linux alongside Windows (Legacy-BIOS/MBR).
+Simple instructions to install Arch Linux alongside Windows (Legacy-BIOS/MBR). Last update: 16/06/18.
 
 Full documentation: [**Wiki**](https://wiki.archlinux.org/index.php/Installation_guide)
 
